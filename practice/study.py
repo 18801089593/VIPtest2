@@ -11,3 +11,4 @@
 # print("%s 的年龄是 %d 岁"%(a,int(b)))
 c,d=input("请输入c和d的值").split(",")
 print("%s的年龄是%s岁"%(c,d))
+
