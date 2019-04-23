@@ -27,12 +27,46 @@ b = [9, 2, 5, 4, 3, 6, 7, 8, 1]
 # print(b)
 # b.append(11)
 # print(b)
+#
+# list=[]
+# for i in range(1,10):
+#     # print(i)
+#     list.append(i)
+# print(list)
+#
+# a=[11,13,5,7,0,56,23,34,72]
+# print(min(a))
+# print(max(a))
+# print(len(a))
+# c=a.index(56)
+# print(c)
+# a.append(7)
+# print(a)
+# print(a.pop(4))
+# a.sort()
+# a.reverse()
+# print(a)
+# b=[66,67,68]
+# a.extend(b)
+# print(a)
 
-list=[]
-for i in range(1,10):
-    # print(i)
-    list.append(i)
-print(list)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
